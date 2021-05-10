@@ -1,4 +1,4 @@
-module github.com/ebi-yade/go-pkg-test/to
+module github.com/ebi-yade/go-pkg-test
 
 go 1.16
 
